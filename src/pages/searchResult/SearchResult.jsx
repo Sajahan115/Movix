@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import noResults from '../../assets/no-results.png'
 import './style.scss'
 import { useParams } from 'react-router-dom'
 import InfiniteScroll from 'react-infinite-scroll-component'
